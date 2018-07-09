@@ -8,7 +8,7 @@
 - 确保你的问题没有找到答案
 - 请使用简洁的标题和规范的描述
 - 1个issue代表1个问题
-- 代码尽可能的有线上版 ttps://stackblitz.com/fork/angular-gitter
+- 代码尽可能的有线上版 [https://stackblitz.com/fork/angular-gitter](https://stackblitz.com/fork/angular-gitter)
 - 原则看到问题及时回复，确保及时沟通，尽快解决问题。
 - 请围绕`Angular 4/5/6`来提问，不建议提问具体业务实现细节
 - 未按标准提问，直接丢弃，不予回复
